@@ -1,0 +1,3 @@
+npx create-expo-app my-app –t
+select typescript
+npx expo start

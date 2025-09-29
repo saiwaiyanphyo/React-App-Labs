@@ -55,15 +55,6 @@ A stopwatch and timer application with precise time tracking.
 
 **Tech Stack:** React Native, Expo, TypeScript, minutes-seconds-milliseconds
 
-### 6. Lecture Examples (`lecture6/`)
-Collection of example components and demonstrations from course lectures.
-
-**Includes:**
-- Location components
-- Map examples (Map01-Map06)
-- Ref examples
-- Various UI components
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -115,7 +106,6 @@ DES427/
 ├── my-first-app/          # First React Native App
 ├── my-movie/              # Movie Browsing App
 ├── my-watch/              # Timer/Stopwatch App
-├── lecture6/              # Course Examples
 └── README.md              # This file
 ```
 
